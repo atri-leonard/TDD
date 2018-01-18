@@ -65,3 +65,111 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1516312367784	Marionette	INFO	New connections will no longer be accepted
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 30101] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1516315074260	geckodriver	INFO	geckodriver 0.19.1
+1516315074315	geckodriver	INFO	Listening on 127.0.0.1:50670
+1516315075348	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/cm/l1m9ysnj0tb2sf1gn8t2ctrh0000gq/T/rust_mozprofile.8ECTFjSKUoqD"
+1516315076965	Marionette	INFO	Listening on port 50681
+1516315077015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315077238	Marionette	DEBUG	loaded listener.js
+1516315077252	Marionette	INFO	New connections will no longer be accepted
+2018-01-18 14:37:57.304 plugin-container[31637:1213264] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x772f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516315077376	geckodriver	INFO	geckodriver 0.19.1
+1516315077448	geckodriver	INFO	Listening on 127.0.0.1:50727
+1516315078462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/cm/l1m9ysnj0tb2sf1gn8t2ctrh0000gq/T/rust_mozprofile.BIDth3ZZIxRv"
+1516315079969	Marionette	INFO	Listening on port 50738
+1516315080057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315080197	Marionette	DEBUG	loaded listener.js
+1516315080221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516315080242	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516315080243	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516315080246	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1516315080249	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+2018-01-18 14:38:00.264 plugin-container[31640:1213849] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x852f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-18 14:38:00.279 plugin-container[31640:1213849] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a4b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516315080311	Marionette	INFO	New connections will no longer be accepted
+1516315293081	geckodriver	INFO	geckodriver 0.19.1
+1516315293133	geckodriver	INFO	Listening on 127.0.0.1:50806
+1516315294174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/cm/l1m9ysnj0tb2sf1gn8t2ctrh0000gq/T/rust_mozprofile.sCBbIhnN18AI"
+1516315295673	Marionette	INFO	Listening on port 50817
+1516315295836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315295913	Marionette	DEBUG	loaded listener.js
+1516315295925	Marionette	INFO	New connections will no longer be accepted
+2018-01-18 14:41:35.961 plugin-container[31686:1216173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x842b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-18 14:41:35.992 plugin-container[31686:1216173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x790b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516315321872	geckodriver	INFO	geckodriver 0.19.1
+1516315321928	geckodriver	INFO	Listening on 127.0.0.1:50866
+1516315322968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/cm/l1m9ysnj0tb2sf1gn8t2ctrh0000gq/T/rust_mozprofile.GRYkUAflmav3"
+1516315324489	Marionette	INFO	Listening on port 50877
+1516315324539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315324769	Marionette	DEBUG	loaded listener.js
+1516315324784	Marionette	INFO	New connections will no longer be accepted
+2018-01-18 14:42:04.823 plugin-container[31699:1217032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-18 14:42:04.838 plugin-container[31699:1217032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7387, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516315344182	geckodriver	INFO	geckodriver 0.19.1
+1516315344240	geckodriver	INFO	Listening on 127.0.0.1:50926
+1516315345465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/tmp/rust_mozprofile.oYpNXv4L7EAP"
+1516315346973	Marionette	INFO	Listening on port 50937
+1516315347028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315347171	Marionette	DEBUG	loaded listener.js
+1516315347186	Marionette	INFO	New connections will no longer be accepted
+2018-01-18 14:42:27.225 plugin-container[31709:1217888] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-18 14:42:27.254 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.254 plugin-container[31709:1217898] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2018-01-18 14:42:27.257 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.289 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.297 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.342 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.349 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.363 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+2018-01-18 14:42:27.374 plugin-container[31709:1217888] Error received in message reply handler: Connection invalid
+Keyboard Layouts: duplicate keyboard layout identifier -14934.
+Keyboard Layouts: keyboard layout identifier -14934 has been replaced with -28673.
+2018-01-18 14:42:27.443 plugin-container[31709:1217888] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x154f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516315389520	geckodriver	INFO	geckodriver 0.19.1
+1516315389576	geckodriver	INFO	Listening on 127.0.0.1:50989
+1516315390607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/tmp/rust_mozprofile.MryHGk0GKQEk"
+1516315392120	Marionette	INFO	Listening on port 51000
+1516315392171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315392321	Marionette	DEBUG	loaded listener.js
+1516315392335	Marionette	INFO	New connections will no longer be accepted
+2018-01-18 14:43:12.388 plugin-container[31727:1218993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-18 14:43:12.422 plugin-container[31727:1218993] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:12.422 plugin-container[31727:1218995] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2018-01-18 14:43:12.423 plugin-container[31727:1218993] Error received in message reply handler: Connection invalid
+1516315392454	geckodriver	INFO	geckodriver 0.19.1
+1516315392524	geckodriver	INFO	Listening on 127.0.0.1:51039
+1516315393526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/tmp/rust_mozprofile.cN7cZx2li6Pw"
+1516315395113	Marionette	INFO	Listening on port 51050
+1516315395184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516315395323	Marionette	DEBUG	loaded listener.js
+1516315395347	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516315395371	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516315395372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516315395376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1516315395378	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+2018-01-18 14:43:15.398 plugin-container[31730:1219404] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-18 14:43:15.413 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.413 plugin-container[31730:1219422] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2018-01-18 14:43:15.415 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.437 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.439 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.475 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.478 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.482 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+2018-01-18 14:43:15.485 plugin-container[31730:1219404] Error received in message reply handler: Connection invalid
+Keyboard Layouts: duplicate keyboard layout identifier -14934.
+Keyboard Layouts: keyboard layout identifier -14934 has been replaced with -28673.
+2018-01-18 14:43:15.534 plugin-container[31730:1219404] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516315395593	Marionette	INFO	New connections will no longer be accepted
