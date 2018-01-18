@@ -46,7 +46,7 @@ class NewVisitorTest(unittest.TestCase):
 
         # There is still a text box inviting her to add another item.
         # She enters "Use peacock to make a fly"
-        self.fail('Finish the test!!!!!!!!')
+        self.fail('Finish the test!!!!!!!')
 
         # The page updates again, and now shows both items on her list
 
