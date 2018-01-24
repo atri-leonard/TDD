@@ -61,8 +61,8 @@ class ListViewTest(TestCase):
 
     def test_displays_only_items_for_that_list(self):
         correct_list = List.objects.create()
-        Item.objects.create(text='itemey 1', list = correct_list)
-        Item.objects.create(text='itemey 2', list = correct_list)
+        Item.objects.create(text='itemey 1', list=correct_list)
+        Item.objects.create(text='itemey 2', list=correct_list)
 
         other_list = List.objects.create()
         Item.objects.create(text='other list item 1', list=other_list)
@@ -108,3 +108,5 @@ class NewItemTest(TestCase):
         )
 
         self.assertRedirects(response, '/lists/' + str(correct_list.id) + '/')
+
+
