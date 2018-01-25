@@ -4,8 +4,7 @@ from selenium.common.exceptions import WebDriverException
 from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from unittest import skip
 from .base import FunctionalTest
-
-MAX_WAIT = 10
+import time
 
 
 class ItemValidationTest(FunctionalTest):
@@ -39,3 +38,20 @@ class ItemValidationTest(FunctionalTest):
         self.browser.find_element_by_id('id_text').send_keys(Keys.ENTER)
         self.wait_for_row_in_list_table('1: Buy milk')
         self.wait_for_row_in_list_table('2: Make tea')
+
+    def test_cannot_add_duplicate_items(self):
+        # Edith goes to the home page and starts new list
+        self.browser.get(self.live_server_url)
+        self.get_item_input_box().send_keys('Buy wellies')
+        self.get_item_input_box().send_keys(Keys.ENTER)
+        self.wait_for_row_in_list_table('1: Buy wellies')
+
+        # She accidentally tries to enter duplicate item
+        self.get_item_input_box().send_keys('Buy wellies')
+        self.get_item_input_box().send_keys(Keys.ENTER)
+
+        # She sees a helpful error msg
+        self.wait_for(lambda: self.assertEqual(
+            self.browser.find_element_by_css_selector('.has-error').text,
+            "You've already got this in your list"
+        ))
