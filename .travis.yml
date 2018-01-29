@@ -1,8 +1,7 @@
 language: python
-rvm:
- - Django==1.9
- - selenium
- - psycopg2
- - gunicorn
- - dj-database-url
- - whitenoise
+python:
+ - "3.5.2"
+install:
+ - pip3 install -r requirements.txt
+script:
+ - django manage.py test
