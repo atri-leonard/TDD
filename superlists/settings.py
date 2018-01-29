@@ -80,9 +80,9 @@ WSGI_APPLICATION = 'superlists.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'list_db',
-        'USER': 'master',
-        'PASSWORD': 'master',
+        'NAME': 'travis_ci_test',
+        'USER': 'postgres',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '',
     }

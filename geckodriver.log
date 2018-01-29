@@ -668,3 +668,115 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1516657427735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
 1516657427737	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
 1516657430165	Marionette	INFO	New connections will no longer be accepted
+1517252007842	geckodriver	INFO	geckodriver 0.19.1
+1517252007891	geckodriver	INFO	Listening on 127.0.0.1:54622
+1517252008928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.5AsoDNXtu4oa"
+1517252010626	Marionette	INFO	Listening on port 54633
+1517252010692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252010843	Marionette	DEBUG	loaded listener.js
+1517252010866	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252010889	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252010889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:53:30.916 plugin-container[28135:1407524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:53:30.946 plugin-container[28135:1407524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x770b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252011013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252011015	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252011833	Marionette	INFO	New connections will no longer be accepted
+1517252012322	geckodriver	INFO	geckodriver 0.19.1
+1517252012378	geckodriver	INFO	Listening on 127.0.0.1:54704
+1517252013399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.ZOa3irRM10GW"
+1517252014874	Marionette	INFO	Listening on port 54715
+1517252014957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252015070	Marionette	DEBUG	loaded listener.js
+1517252015094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252015116	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252015116	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:53:35.131 plugin-container[28141:1408140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:53:35.146 plugin-container[28141:1408140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x810b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252015234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252015237	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252016551	Marionette	INFO	New connections will no longer be accepted
+1517252016788	geckodriver	INFO	geckodriver 0.19.1
+1517252016843	geckodriver	INFO	Listening on 127.0.0.1:54789
+1517252017887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.Nr53fJ7ancjt"
+1517252019438	Marionette	INFO	Listening on port 54800
+1517252019538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252019666	Marionette	DEBUG	loaded listener.js
+1517252019689	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252019711	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252019711	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:53:39.727 plugin-container[28148:1408765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7933, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:53:39.743 plugin-container[28148:1408765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7587, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252019836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252019838	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252026476	Marionette	INFO	New connections will no longer be accepted
+1517252026696	geckodriver	INFO	geckodriver 0.19.1
+1517252026750	geckodriver	INFO	Listening on 127.0.0.1:54909
+1517252027789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.MZSjXCgTMWIQ"
+1517252029388	Marionette	INFO	Listening on port 54920
+1517252029442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252029599	Marionette	DEBUG	loaded listener.js
+1517252029623	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252029646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252029646	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:53:49.667 plugin-container[28159:1409501] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:53:49.687 plugin-container[28159:1409501] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c87, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252029763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252029766	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252031160	Marionette	INFO	New connections will no longer be accepted
+1517252031674	geckodriver	INFO	geckodriver 0.19.1
+1517252031730	geckodriver	INFO	Listening on 127.0.0.1:55001
+1517252032758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.WD0FjiuOvpGs"
+1517252034269	Marionette	INFO	Listening on port 55012
+1517252034322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252034473	Marionette	DEBUG	loaded listener.js
+1517252034497	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252034522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252034522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:53:54.538 plugin-container[28166:1410143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:53:54.554 plugin-container[28166:1410143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7287, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252034629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252034632	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252040856	Marionette	INFO	New connections will no longer be accepted
+1517252041101	geckodriver	INFO	geckodriver 0.19.1
+1517252041165	geckodriver	INFO	Listening on 127.0.0.1:55127
+1517252042187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.W113a9KgiuIb"
+1517252043721	Marionette	INFO	Listening on port 55138
+1517252043785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252043955	Marionette	DEBUG	loaded listener.js
+1517252043978	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252043999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252043999	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:54:04.016 plugin-container[28174:1410856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:54:04.032 plugin-container[28174:1410856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x824b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252044107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252044110	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252044812	Marionette	INFO	New connections will no longer be accepted
+1517252044915	geckodriver	INFO	geckodriver 0.19.1
+1517252044974	geckodriver	INFO	Listening on 127.0.0.1:55201
+1517252045995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/r4/876dmgbd0zqcmktjw1dtt9pc0000gp/T/rust_mozprofile.l3UrTBF6aksu"
+1517252047529	Marionette	INFO	Listening on port 55228
+1517252047568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517252047728	Marionette	DEBUG	loaded listener.js
+1517252047752	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517252047776	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517252047776	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2018-01-29 18:54:07.792 plugin-container[28182:1411525] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-29 18:54:07.808 plugin-container[28182:1411525] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x790b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517252047878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1517252047881	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1517252048629	Marionette	INFO	New connections will no longer be accepted
