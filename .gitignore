@@ -1,5 +1,3 @@
 TDD
 *.pyc
 __pycache__
-.coverage
-.coveralls.yml

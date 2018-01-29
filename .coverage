@@ -1,2 +1,0 @@
-coverage run --source=my_package setup.py test
-COVERALLS_REPO_TOKEN=d8S3ZjUPqXrazPNONoix0nP0f6e0NZBZa coveralls
