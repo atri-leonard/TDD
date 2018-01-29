@@ -1,6 +1,6 @@
 language: python
 addons:
- - firefox: "45.4.0esr"
+ - firefox: "57.0.2"
 python:
  - "3.5.2"
 before_install:
