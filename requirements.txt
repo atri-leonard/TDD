@@ -4,4 +4,3 @@ psycopg2
 gunicorn
 dj-database-url
 whitenoise
-geckodriver
