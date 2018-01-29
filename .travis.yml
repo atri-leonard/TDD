@@ -1,0 +1,8 @@
+language: python
+rvm:
+ - Django==1.9
+ - selenium
+ - psycopg2
+ - gunicorn
+ - dj-database-url
+ - whitenoise
